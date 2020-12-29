@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="rsaDeterminant:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/rsaDeterminant_jar</output-path>
+    <root id="archive" name="rsaDeterminant.jar">
+      <element id="module-output" name="rsaDeterminant" />
+    </root>
+  </artifact>
+</component>
